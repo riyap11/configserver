@@ -22,7 +22,7 @@ spring:
       port: 6379
       ttl: 3600
   datasource:
-    password: adming@123
+    password: admin@123
     url: jdbc:postgresql://localhost:5432/postgres
     username: postgres
   jpa:
